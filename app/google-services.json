@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1037094030970",
+    "project_id": "fr-firebaserealtimeexamepl",
+    "storage_bucket": "fr-firebaserealtimeexamepl.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037094030970:android:bc8da0d53526457b3375c3",
+        "android_client_info": {
+          "package_name": "com.muema.firebaserealtimeexample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdVW8MyMfiliCnadIhr_jaD3ghusUVz8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
